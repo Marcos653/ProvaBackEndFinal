@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "eureka-server"
+		},
+		{
+			"path": "zuul-server"
+		},
+		{
+			"path": "produtos-ms"
+		},
+		{
+			"name": "inventario-ms",
+			"path": "inventario-ms"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
